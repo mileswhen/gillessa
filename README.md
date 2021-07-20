@@ -1,5 +1,5 @@
 # Gillessa
-Python implementation of **Gilles**pie **s**tochastic-**a**lgorithm simulations, for understanding [FKBP-F36V](https://www.rcsb.org/structure/1BL4) homodimerization in presence of [AP20187](https://www.sigmaaldrich.com/BE/en/product/sigma/sml2838). Contains several experimental notebooks for conducting basic reaction-diffusion simulations on a 2D surface, which corresponds to a typical [TIRF microscopy setup](https://www.leica-microsystems.com/science-lab/total-internal-reflection-fluorescence-tirf-microscopy/).
+Python implementation of **Gilles**pie **s**tochastic-**a**lgorithm, for simulating [FKBP-F36V](https://www.rcsb.org/structure/1BL4) homodimerization in presence of [AP20187](https://www.sigmaaldrich.com/BE/en/product/sigma/sml2838). Contains several experimental notebooks for conducting basic reaction-diffusion simulations on a 2D surface, which corresponds to a typical [TIRF microscopy setup](https://www.leica-microsystems.com/science-lab/total-internal-reflection-fluorescence-tirf-microscopy/).
 
 ## Structure
 * **SRDS.ipynb**: simple stochastic simulations of reactions. Contains tests of objects and classes for incorporating diffusion, as well as some prelim results.
