@@ -4,7 +4,7 @@ Python implementation of **Gille**spie **s**tochastic-**s**imulation **a**lgorit
 ## Structure
 * **SRDS.ipynb**: simple stochastic simulations of reactions. Contains tests of objects and classes for incorporating diffusion, as well as some prelim results.
 * **SSAmodel**: complete code for generating 2D reaction-diffusion sims with plotting functions. Note these are compartment-based.
-* **gillespie.py**: incomplete script for generating 2D reaction-diffusion sims
+* **models.py**: models for simulating stochastic systems: SSA, FRM, MNRM, TAUL-LEAP
 * **particle_sims.ipynb**:  particle-based simulations of homodimerization. Further checks to validate trajectory [correlation algorithm](https://www.researchgate.net/publication/256072559_Correlation_of_Dual_Colour_Single_Particle_Trajectories_for_Improved_Detection_and_Analysis_of_Interactions_in_Living_Cells) in single-particle tracking experiments.
 
 ## References
